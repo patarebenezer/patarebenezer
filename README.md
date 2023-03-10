@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patarebenezer
 - 👀 I’m interested in Web Development, UI/UX and JS Enthusiast
-- 🌱 I’m currently learning MongoDB, ReactJS, NodeJS and NextJS
+- 🌱 I mastered several skills such as TailwindCSS, Redux, MongoDB, ReactJS, NodeJS and NextJS
 - 📫 Come to my linkedin https://www.linkedin.com/in/patar-siahaan-87a50318b/
 
 <!---
